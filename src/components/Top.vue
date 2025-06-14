@@ -8,7 +8,7 @@
       to="/"
       class="btn btn-ghost text-blue-600 hover:bg-blue-100 text-xl"
     >
-      Proyecto App
+      Home
     </RouterLink>
     
   </div>
